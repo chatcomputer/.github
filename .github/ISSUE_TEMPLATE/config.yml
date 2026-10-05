@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security issue
+    url: https://github.com/chatcomputer/chatcomputer/security/advisories/new
+    about: Please report security problems privately, not in a public issue.
+  - name: Website
+    url: https://chatcomputer.github.io
+    about: What Chat Computer does, measured results and downloads.

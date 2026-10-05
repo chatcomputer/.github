@@ -1,0 +1,47 @@
+name: Bug report
+description: Something doesn't work as it should
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. **Help › Export Diagnostics** in Chat Computer saves a zip to your Desktop with
+        versions, the virtual Mac's state and recent task logs, with API keys and passwords removed. Please
+        look through it and attach it below; the task logs contain your chat with the agent.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. …
+        2. …
+  - type: input
+    id: version
+    attributes:
+      label: Chat Computer version
+      description: Chat Computer › About, e.g. 0.9.0 (24)
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac
+      placeholder: macOS 27.0, MacBook Pro M5, 32 GB
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      description: Provider and model, if the problem involves a task
+      placeholder: DeepSeek · deepseek-flash
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics and screenshots
+      description: Drag the diagnostics zip or screenshots here.
