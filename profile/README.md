@@ -1,5 +1,3 @@
-<p align="center"><img src="icon.png" width="96" height="96" alt="Chat Computer"></p>
-
 <h3 align="center">Chat Computer</h3>
 
 <p align="center">
