@@ -6,7 +6,7 @@ A private macOS virtual machine on your Mac, operated by an AI agent, with every
 </p>
 
 <p align="center">
-<a href="https://chatcomputer.github.io">Website</a> ·
+<a href="https://atomsprout.com/chatcomputer">Website</a> ·
 <a href="https://github.com/chatcomputer/chatcomputer/releases/latest">Download</a> ·
 <a href="https://github.com/chatcomputer/chatcomputer">Source</a> ·
 <a href="https://github.com/chatcomputer/chatcomputer/blob/main/PRIVACY.md">Privacy</a>

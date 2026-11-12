@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/chatcomputer/chatcomputer/security/advisories/new
     about: Please report security problems privately, not in a public issue.
   - name: Website
-    url: https://chatcomputer.github.io
+    url: https://atomsprout.com/chatcomputer
     about: What Chat Computer does, measured results and downloads.
