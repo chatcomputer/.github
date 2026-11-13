@@ -6,10 +6,10 @@ A private macOS virtual machine on your Mac, operated by an AI agent, with every
 </p>
 
 <p align="center">
-<a href="https://atomsprout.com/chatcomputer">Website</a> ·
+<a href="https://atomsprout.com/chatcomputer/">Website</a> ·
 <a href="https://github.com/chatcomputer/chatcomputer/releases/latest">Download</a> ·
 <a href="https://github.com/chatcomputer/chatcomputer">Source</a> ·
-<a href="https://github.com/chatcomputer/chatcomputer/blob/main/PRIVACY.md">Privacy</a>
+<a href="https://atomsprout.com/chatcomputer/privacy/">Privacy</a>
 </p>
 
 ![Chat Computer](screenshot.jpg)
@@ -17,6 +17,6 @@ A private macOS virtual machine on your Mac, operated by an AI agent, with every
 | Repository | What it is |
 |---|---|
 | [chatcomputer](https://github.com/chatcomputer/chatcomputer) | The macOS app, the guest agent, the `chatcomputer` CLI and MCP server |
-| [chatcomputer.github.io](https://github.com/chatcomputer/chatcomputer.github.io) | The website |
+| [AtomSprout website](https://github.com/atomsprout/atomsprout.github.io/tree/main/software-sites/chatcomputer) | The product website, maintained in the company repository |
 
 Requires Apple silicon and macOS 27. Free and open source under Apache 2.0.
